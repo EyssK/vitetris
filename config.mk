@@ -12,7 +12,7 @@ datadir = $(datarootdir)/allegro
 #datadir = $(datarootdir)/allegro/vitetris
 
 UNIX = y
-CC = riscv64-unknown-linux-gnu-gcc
+CC = riscv32-unknown-linux-gnu-gcc
 
 TWOPLAYER = y
 #JOYSTICK = y

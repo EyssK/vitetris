@@ -1,4 +1,4 @@
-CC = riscv64-unknown-linux-gnu-gcc
+CC = riscv32-unknown-linux-gnu-gcc
 CCFLAGS = $(CFLAGS) $(CPPFLAGS)
 #CFLAGS = -O2 -Wall -pedantic -Wno-parentheses
 CFLAGS = -O2
